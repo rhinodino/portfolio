@@ -1,0 +1,10 @@
+* {
+    background-color: rgb(26, 23, 23);
+    text-align: justify;
+    color: greenyellow;
+}
+
+#object {
+    display: flex;
+}
+
